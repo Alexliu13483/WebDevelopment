@@ -1,0 +1,36 @@
+/*Selector {
+  Property: value;
+}*/
+
+html {
+  font-size: 16px
+}
+
+h2 {
+  color: blue;
+}
+
+p {
+  font-size: 20px;
+  text-transform: capitalize;
+}
+
+span {
+  /*font-size: 2em*/
+  font-size: 2rem
+}
+
+.boxmodel {
+  border: 5px solid red;
+  display: inline-block;
+  /*padding: 5px 20px 5px 20px;*/
+  padding: -5px 20px;
+  /*margin: 5px 20px 5px 20px;*/
+  margin: 0px 20px;
+  width: 30px;
+  height: 50px;
+}
+
+a{
+  list-style-type: square;
+}
