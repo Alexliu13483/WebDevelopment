@@ -47,11 +47,6 @@ hr {
   border-color: #F05F44 !important;
 }
 
-.btn-primary:focus {
-  background-color: #F05F44 !important;
-  border-color: #F05F44 !important;
-  border-width: 4px !important;
-}
 
 .btn-xl {
   padding: 1rem 2rem;
